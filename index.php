@@ -210,7 +210,7 @@
         </div>
 
 
-
+<!-- Education and Experience section -->
 
         <div class="edu-exp">
 
@@ -220,15 +220,21 @@
                     target="_blank" rel="noopener noreferrer" class="btn">Academic Awards</a>
             </div>
             <div class="row">
+                        <!-- Experience skills section -->
+                        <div class="column"></div>
 
-                <div class="box-container">
+
+                <div class="box-container column">
+        <!-- Experience section -->
 
                     <h3 class="title" data-aos="fade-right">Education</h3>
 
-                    <div class="box" data-aos="fade-right">
-                        <span>( 2021 &#8211 2023 )</span>
-                        <h3>B.S. Information Systems and Graphic Design</h3>
-                        <h4> Coastal Carolina University</h4>
+                    <div class="sleeve-left" data-aos="fade-right">
+                        <div class="sleeve-header">
+                            <span>( 2021 &#8211 2023 )</span>
+                            <h3>B.S. Information Systems and Graphic Design</h3>
+                            <h4> Coastal Carolina University</h4>
+                        </div>
                         <p>As a graduate of Coastal Carolina University's ABET accredited Bachelor of Science in
                             Information
                             Systems program, I have acquired a solid understanding of the fundamental principles and
@@ -236,9 +242,16 @@
                             hands-on experience, I am well-equipped to excel in a variety of roles in the field of
                             information systems.Consistently achieving Dean's List recognition throughout my academic
                             journey is a testament to my hard work and academic achievement.</p>
-                    </div>
+                            <span class="insert-left" >
+                            <ul>
+                                <li>Laravel</li>
+                                <li>CSS</li>
+                                <li>JQuery</li>
+                            </ul>
+                        </span>
+                        </div>
 
-                    <div class="box" data-aos="fade-right">
+                    <div class="sleeve-left" data-aos="fade-right">
                         <span>( 2017 &#8211 2019 )</span>
                         <h3> M.S. Applied Clinical Counseling Psychology</h3>
                         <h4> Francis Marion University</h4>
@@ -249,7 +262,7 @@
                             skills make me a valuable asset to any programming team.</p>
                     </div>
 
-                    <div class="box" data-aos="fade-right">
+                    <div class="sleeve-left" data-aos="fade-right">
                         <span>( 2013 &#8211 2016 )</span>
                         <h3>B.S. Psychology</h3>
                         <p>I am proud to have earned a spot on the Dean's List every semester of my academic career,
@@ -257,15 +270,17 @@
                     </div>
 
                 </div>
-
-                <div class="box-container">
+                <!-- Education -->
+                <div class="box-container column">
 
                     <h3 class="title" data-aos="fade-left">Experience</h3>
 
-                    <div class="box" data-aos="fade-left">
-                        <span>( 2023-2024 )</span>
-                        <h3>Full Stack Engineer</h3>
-                        <h2>Xchive Business Intelligence, Inc.</h2>
+                    <div class="sleeve " data-aos="fade-left">
+                        <div class="sleeve-header">
+                            <h2>Full Stack Engineer</h2>
+                            <h3>Xchive Business Intelligence, Inc.</h3>
+                            <span>( 2023-2024 )</span>
+                        </div>
                         <ul>
                             <li>Spearheaded the development of a Laravel-based provisioning platform for Managed Service
                                 Providers, aimed at automating service deployment and management.</li>
@@ -280,14 +295,24 @@
                             <li>Planned and executed the upgrade of Bootstrap framework versions across all BI products,
                                 ensuring compatibility and minimizing disruption to existing functionalities.</li>
                         </ul>
-                        <div class="hidden-content" data-aos="slide-right">
-                            <p>Details about experience</p>
-                        </div>
+                        <span class="insert" >
+                            <ul>
+                                <li>Laravel</li>
+                                <li>CSS</li>
+                                <li>JQuery</li>
+                                <li>PHP</li>
+                                <li>PGSQL</li>
+                            </ul>
+                        </span>
                     </div>
 
-                    <div class="box" data-aos="fade-left">
-                        <span>( 2021 - 2023 )</span>
-                        <h3>Student Affairs Website and Design Assistant</h3>
+                    <div class="sleeve" data-aos="fade-left">
+                        <div class="sleeve-header">
+                            <h2>Student Affairs Website and Design Assistant</h2>
+                            <h3>Coastal Carolina University</h3>
+                            <span>( 2021 - 2023  )</span>
+                        </div>
+                        
                         <ul>
                             <li> Led website development projects, transforming mockups into functional
                                 web pages using HTML, CSS, and Bootstrap.</li>
@@ -298,28 +323,35 @@
                             <li>Gathered and analyzed design and development requirements from various departments
                                 within Student Affairs to ensure seamless communication and project success.</li>
                         </ul>
-                        <div class="hidden-content" data-aos="slide-right">
+                        <span class="insert" >
                             <p>Details about experience</p>
-                        </div>
+                        </span>
                     </div>
 
-                    <div class="box" data-aos="fade-left">
-                        <span>( 2020 - 2021 )</span>
-                        <h3>Licensed Mental Health Counselor</h3>
+                    <div class="sleeve" data-aos="fade-left">
+                        <div class="sleeve-header">
+                            <h2>Licensed Mental Health Counselor</h2>
+                            <h3>Coastal Carolina University</h3>
+                            <span>( 2020 - 2021 )</span>
+                        </div>
                         <p>Used advanced counseling skills and evidence-based practices to establish goals and treatment
                             plans with patients.
                             Guided clients in effective therapeutic exercises integrated from Cognitive Behavior Therapy
                             and Dialectical Behavior Therapy (DBT).
                             Created and implemented additional website design to enhance user experience and increase
                             accessability.</p>
-                        <div class="hidden-content" data-aos="slide-right">
+                        <span class="insert" >
                             <p>Details about experience</p>
-                        </div>
+                        </span>
                     </div>
 
 
 
                 </div>
+
+                <!-- education slideout -->
+                <div class="column"></div>
+
 
             </div>
 
